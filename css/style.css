@@ -1,0 +1,17 @@
+body {
+    font-family: 'Open Sans', 'Raleway', sans-serif;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.list {
+    list-style: none;
+}
+
+.header-btn {
+    background-color: #fff;
+    color: #00f;
+    border: 2px solid #00f;
+}
